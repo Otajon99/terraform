@@ -1,3 +1,4 @@
+```
 1. Terraform Installation
 This section details how to install Terraform using the official HashiCorp RPM repository.
 
@@ -41,3 +42,5 @@ Install Infracost for cloud cost estimates.
 
 Run the official installation script:
 curl -fsSL https://raw.githubusercontent.com/infracost/infracost/master/scripts/install.sh | sh
+
+```
